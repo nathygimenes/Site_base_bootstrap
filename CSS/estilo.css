@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
 body{
     background-color: rgb(161, 141, 248);
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: rgb(3, 3, 0);
+}
+a{
+    color: rgb(38, 4, 70);
 }
 .col{
     background-color: rgb(161, 141, 248);
