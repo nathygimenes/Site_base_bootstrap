@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
 body{
     background-color: rgb(161, 141, 248);
     font-family: 'PT Sans Narrow', sans-serif;
@@ -14,6 +16,18 @@ a{
     margin-top:20px;
     border-radius: 15px;
 }
-
-
+h2{
+    font-family: 'Birthstone', cursive;
+}
      
+h3{
+    font-family: 'Birthstone', cursive;
+}
+
+h1{
+    font-family: 'Birthstone', cursive;
+}
+
+h4{
+    font-family: 'Birthstone', cursive;
+}
